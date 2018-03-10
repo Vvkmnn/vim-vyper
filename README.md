@@ -1,5 +1,8 @@
 # vim-vyper
+
 Syntax files for [Vyper](https://github.com/ethereum/vyper), an experimental, Pythonic contract-oriented programming language for Ethereum.
+
+**Warning**: This is alpha software documentating alpha software. User discretion is advised.
 
 ## Installation
 
@@ -10,18 +13,18 @@ call dein#add('vim-vyper', { 'on_ft': 'vyper' })
 
 ### Pathogen
 ```bash
-git clone https://github.com/tomlion/vim-solidity.git ~/.vim/bundle/vim-solidity
+git clone https://github.com/vvkmnn/vim-vyper.git ~/.vim/bundle/vim-vyper
 ```
 
 ### Vundle
 ```vim
-Plugin 'tomlion/vim-solidity'
+Plugin 'vvkmnn/vim-vyper'
 ```
 
 ### Plug
 ```vim
-Plug 'tomlion/vim-solidity'
+Plug 'vvkmnn/vim-vyper'
 ```
 
-### None
-Copy straight into your `~/.vim` or `~/.config/nvim`.
+### Vanilla
+Copy straight into your `$VIMPATH` (Typically `~/.vim` or `~/.config/nvim`).
