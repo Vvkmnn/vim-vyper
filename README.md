@@ -2,7 +2,7 @@
 
 Syntax files for [Vyper](https://github.com/ethereum/vyper), an experimental, Pythonic contract-oriented programming language for Ethereum.
 
-**Warning**: This is alpha software documentating alpha software. User discretion is advised.
+**Warning**: This is alpha software documentating alpha software, and is still largely broken. User discretion is advised.
 
 ## Installation
 

@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.v.py setf vyper
+autocmd BufNewFile,BufRead *.vy,*.v.py setf vyper
